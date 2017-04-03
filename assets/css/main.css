@@ -1,0 +1,14 @@
+h1{
+  text-align: center;
+}
+.seleccion{
+  width: 1024px;
+  margin: 0 auto;
+
+}
+select{
+  margin-left: 40%;
+}
+.chile, .quintaLima, .sextaLima{
+margin:18px;
+}
